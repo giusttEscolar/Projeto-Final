@@ -1,0 +1,13 @@
+C:\Users\logon\source\repos\ProjetoFinal_3J_13\ProjetoFinal_3J_13\bin\Debug\ProjetoFinal_3J_13.exe.config
+C:\Users\logon\source\repos\ProjetoFinal_3J_13\ProjetoFinal_3J_13\bin\Debug\ProjetoFinal_3J_13.exe
+C:\Users\logon\source\repos\ProjetoFinal_3J_13\ProjetoFinal_3J_13\bin\Debug\ProjetoFinal_3J_13.pdb
+C:\Users\logon\source\repos\ProjetoFinal_3J_13\ProjetoFinal_3J_13\obj\Debug\ProjetoFinal_3J_13.csproj.AssemblyReference.cache
+C:\Users\logon\source\repos\ProjetoFinal_3J_13\ProjetoFinal_3J_13\obj\Debug\ProjetoFinal_3J_13.csproj.SuggestedBindingRedirects.cache
+C:\Users\logon\source\repos\ProjetoFinal_3J_13\ProjetoFinal_3J_13\obj\Debug\ProjetoFinal_3J_13.Form1.resources
+C:\Users\logon\source\repos\ProjetoFinal_3J_13\ProjetoFinal_3J_13\obj\Debug\ProjetoFinal_3J_13.FormX.resources
+C:\Users\logon\source\repos\ProjetoFinal_3J_13\ProjetoFinal_3J_13\obj\Debug\ProjetoFinal_3J_13.FormY.resources
+C:\Users\logon\source\repos\ProjetoFinal_3J_13\ProjetoFinal_3J_13\obj\Debug\ProjetoFinal_3J_13.Properties.Resources.resources
+C:\Users\logon\source\repos\ProjetoFinal_3J_13\ProjetoFinal_3J_13\obj\Debug\ProjetoFinal_3J_13.csproj.GenerateResource.cache
+C:\Users\logon\source\repos\ProjetoFinal_3J_13\ProjetoFinal_3J_13\obj\Debug\ProjetoFinal_3J_13.csproj.CoreCompileInputs.cache
+C:\Users\logon\source\repos\ProjetoFinal_3J_13\ProjetoFinal_3J_13\obj\Debug\ProjetoFinal_3J_13.exe
+C:\Users\logon\source\repos\ProjetoFinal_3J_13\ProjetoFinal_3J_13\obj\Debug\ProjetoFinal_3J_13.pdb
